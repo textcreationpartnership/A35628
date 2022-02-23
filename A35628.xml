@@ -1,0 +1,1135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Case of Mr. Francis Jenkes being an impartial relation of his imprisonment in the Gate-House, with the occasion of it, and the means used for his enlargment.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 62 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35628</idno>
+            <idno type="STC">Wing C955</idno>
+            <idno type="STC">ESTC R29179</idno>
+            <idno type="EEBO-CITATION">10840579</idno>
+            <idno type="OCLC">ocm 10840579</idno>
+            <idno type="VID">46100</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35628)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46100)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1418:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Case of Mr. Francis Jenkes being an impartial relation of his imprisonment in the Gate-House, with the occasion of it, and the means used for his enlargment.</title>
+                  <author>Jenkes, Francis.</author>
+               </titleStmt>
+               <extent>32t p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Amsterdam :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: all after p. 32 lacking.</note>
+                  <note>Reproduction of original in the Goldsmiths' Library, University of London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46100:1"/>
+            <pb facs="tcp:46100:1"/>
+            <p>THE CASE OF Mr. FRANCIS JENKES. BRING An Impartial Relation of his Im<g ref="char:EOLhyphen"/>priſonment in the Gate-Houſe, with the Occaſion of it, and the Means uſed for his Enlargment.</p>
+            <p>
+               <hi>AMSTERDAM,</hi> Printed in the Year, 1677.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:46100:2"/>
+            <pb facs="tcp:46100:2" rendition="simple:additions"/>
+            <head>THE CASE OF Mr. FRANCIS JENKES, &amp;c.</head>
+            <p>M<hi rend="sup">R.</hi> 
+               <hi>Jenkes,</hi> having been a Trader for many years, and obſerving the daily decay of Trade in the City, oc<g ref="char:EOLhyphen"/>caſioned by ſuch miſchiefs, as lay not in the induſtry of its Inhabitants, but only in the power of the Government to redreſs; and that did require a more ſpeedy redreſs than a Parliament Prorogued for 15 Months could afford; after having in vain ſolicited the Lord Mayor for a Common-Council, that might conſider of a Petition about Trade; out of a hearty zeal for the good of the City, as well as encouraged by the conſent and deſire of many ſober City-zens, the Liberty reſerved to the Lord Mayor, Aldermen, and Common-Council, by the Statute of the 13th. of this King concerning Petitions, the Votes of a majority of the <hi>Temporal Lords</hi> at the laſt Seſſion, together with the unan<g ref="char:EOLhyphen"/>ſwerable Reaſons given in their Proteſtation, did at the <hi>Folk-moot</hi> (or Common-Hall) holden the 24th. of <hi>June</hi> laſt paſt, in the <hi>Guild-hall</hi> of <hi>London,</hi> thus diver himſelf.</p>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>Mr. Common Sergeant.</salute>
+                  </opener>
+                  <p>IT ſeems a vain thing for this Court to be ſerious about the choice of Magiſtrates and Officers for the well Go<g ref="char:EOLhyphen"/>vernment of this City, except they firſt take care to remedy thoſe many Miſchiefs and Grievances, which the City now
+<pb n="4" facs="tcp:46100:3"/>groans under, and which ſeem ſo to threaten the ruine and deſtruction of the whole, that if there be not ſome ſpeedy redreſs, there will be little need of Magiſtrates, and Of<g ref="char:EOLhyphen"/>ficers, for there will be no City or People left here to be Governed.</p>
+                  <p>
+                     <hi>London</hi> has once already been burned to aſhes, and firing is now become ſuch a Trade, that not only <hi>London,</hi> the Burrough of <hi>Southv<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ark,</hi> and the places adjoyning, but all the Cities, Burroughs, Towns Corporate, and places of principal Trade throughout the whole Kingdom, are per<g ref="char:EOLhyphen"/>petually in danger; ſo that no rational or conſiderate man amongſt us can promiſe himſelf, his Wife, his Children, or Eſtate one nights ſecurity, but they may all be devoured in the conſuming flames, except ſome ſpeedy and effectual courſe be taken.</p>
+                  <p>But this is not all; For were our Houſes ſecure from fire, yet ſuch is the general decay of Trade, as if not remedied, muſt unavoidably bring the whole City to poverty and ruin; and it is conceived, that this is very much occaſioned by the <hi>French,</hi> who have laid ſuch great Impoſitions upon our Woollen Cloth, Stuffs and other Manufactures, that we have almoſt loſt our Trade with <hi>France,</hi> they have ſpoild our Trade with <hi>Holland, Flanders</hi> and <hi>Germany,</hi> by a deſtructive War. They have ruined our Trade at home, and beggared many thouſands of our honeſt and induſtrious VVeavers, and other <hi>English</hi> Manufactors and Traders, by the vaſt quantity of their ſilks, and other unneceſſary Commodities imported hither: ſo that upon an exact ballance of the Trade between us and them taken, it has been demonſtrated that this City and Kingdom doth loſe <hi>Eleven hundred thouſand pounds</hi> every year. By means whereof, they who in Queen <hi>Elizabeths</hi> time might not be ſuffered to build Men of VVar, are now grown ſo powerful at Sea, as to be able to beat both <hi>Dutch</hi> and <hi>Spaniard,</hi> and have made themſelves in a manner ſole Maſters of the <hi>Mediterranean</hi> Sea: And they
+<pb n="5" facs="tcp:46100:3"/>are grown ſo <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>eſumptuous as daily to injure and affront our <hi>English Merchants,</hi> and ſometimes in his Majeſties own Ports. Their Privateers daily take our Merchants Ships, plunder others, ſtrip, impriſon and torment our Seamen to the great diſcouragement of our <hi>English Navigation,</hi> and almoſt ruine of the Merchant.</p>
+                  <p>I ſhall inſtance but in one thing more, but that is worſe than all the reſt, That is the juſt apprehenſion that is upon the minds of good men, of danger to his Majeſties Perſon, and the <hi>Protoſtant Religion.</hi>
+                  </p>
+                  <p>I had not ſpoken this at this time and place, but having the honour to ſerve this City in Common Council, I have en<g ref="char:EOLhyphen"/>deavoured at ſeveral times to bring theſe things before that Court, but could not. In the end of the laſt Common-Council I did deſire my Lord Mayor that a Common Coun<g ref="char:EOLhyphen"/>cil might ſpeedily be held to hear and conſider of a Petition about Trade, ſubſcribed by a great number of Citizens of good quality, and his Lordſhip did then promiſe that a Common-Council ſhould ſpeedily be held: But it is a good time ſince, and there have been many Fires and Loſſes, but no Common-Council. VVherefore, me-thinks it doth be<g ref="char:EOLhyphen"/>come the wiſdom and gravity of this Court not to admit of any longer delay in a matter wherein their <hi>All</hi> is concern'd. And I do humbly move (and I conceive it is not only my ſenſe but the ſenſe of the far greater part of this Court) that ſome Members of this Court may accompany the Sheriffs and Mr Common Sergeant before we proceed to any other matter, to wait upon my Lord Mayor, and the Court of Al<g ref="char:EOLhyphen"/>dermen, to deſire that a Common-Council might ſpeedily be held, humbly to Petition his Majeſty, That for the quiet<g ref="char:EOLhyphen"/>ing and ſatisfying the mindes of his liege People, and for remedy of the many miſchiefs and grievances we now groan under, He would gratiouſly be pleaſed (according to the Statutes of the 4th. and 36th. of <hi>Edvv.</hi> 3.) timely to Call a <hi>Nevv Parliament.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <pb n="6" facs="tcp:46100:4"/>
+            <p>Scarcely were the words, <hi>A Nevv Parliament,</hi> pro<g ref="char:EOLhyphen"/>nounced, but the greateſt part of the Aſſembly cryed out, <hi>Well moved! Well moved!</hi> And though none ſpake up for<g ref="char:EOLhyphen"/>mally to the Sheriffs, yet ſeveral amongſt them ſpake enough to ſhew a high approbation of what had been ſaid, and not one word was ſpoken in contradiction: which when the Common Sergeant ſaw, to prevent (as is conceived) others ſpeaking to the ſame matter, he ſpake to this purpoſe.</p>
+            <p>That what had been moved, ſeemed to be the general ſence of the whole Court, and ſince the Gentleman that made the motion, was pleaſed to joyn him with the Sheriffs, and that he muſt offer his opinion in the matter; It was this, That it was not ſo proper to carry up that meſſage before they did proceed to their Elections; as firſt to determine their Election, and then carry up an account of theſe and that together. But many in the Court did inſiſt upon the mo<g ref="char:EOLhyphen"/>tion and deſired a meſſage might be ſent up immediately. Whereupon one of the Sheriffs ſpake, and did acknowledge That what had been ſaid by the Gentleman that ſpake firſt was true, but that he was an Old Citizen, and had long known Common Halls, and he did believe that the proper Work of the Day was the Election of Officers, and there<g ref="char:EOLhyphen"/>fore he did deſire that the Court would proceed, and not to carry up the Meſſage till after that was done. To which one replyed; That according to his utmoſt underſtanding that Court was one of the antienteſt, greateſt and moſt power<g ref="char:EOLhyphen"/>full Courts of the City, and although the cuſtomary buſi<g ref="char:EOLhyphen"/>neſs of this day were the choice of Officers, yet that Court had cognizance of any thing whatever that did relate to the good of the City, and therefore it was conceived, that no<g ref="char:EOLhyphen"/>thing was more proper at that time than this which con<g ref="char:EOLhyphen"/>cerned the preſervation of the City from utter ruine.</p>
+            <p>Upon which the other Sheriff directing his diſcourſe to the Aſſembly, ſaid, That what the Gentleman had moved there was true, and not unknown to moſt of the perſons
+<pb n="7" facs="tcp:46100:4"/>there preſent; but that he was of his Brothers opinion, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it was fit firſt to go on to the work of the day, and not to car<g ref="char:EOLhyphen"/>ry up that meſſage till after the Election. Many perſons be<g ref="char:EOLhyphen"/>ing ſtill diſſatisfied, and calling for a preſent meſſage to be ſent up, the Gentleman, who firſt moved the buſineſs made it his requeſt, that ſince there ſeemed a difference touching the circumſtance of time, that they would proceed to Electi<g ref="char:EOLhyphen"/>on, and carry up the Meſſage with the perſons Elected, as the Sheriffs deſired; to which the common Hall unanimouſ<g ref="char:EOLhyphen"/>ly agreed. Upon which, ſilence being made, the common Hall proceeded to election of Sheriffs, and made their Electi<g ref="char:EOLhyphen"/>on, and ſent up an account thereof to the Lord Mayor and Aldermen by the Sheriffs and common Sergeant, as is uſual in ſuch caſes. The Lord Mayor and Aldermen preſently came down and took their ſeats in the Court of <hi>Huſtings</hi> ac<g ref="char:EOLhyphen"/>cording to cuſtom; upon which the common Sergeant came forth to the front of the Court, and declared the Names of the perſons Elected, and immediately gave back. Thereupon the common Hall called out for an Anſwer to their Meſſage; upon which the common Sergeant ſtep<g ref="char:EOLhyphen"/>ing forward again in the preſence of the Lord Mayor, Al<g ref="char:EOLhyphen"/>dermen and Sheriffs, ſaid. That he had acquainted his Lord<g ref="char:EOLhyphen"/>ſhip and the Aldermen with their requeſt, and that his Lord<g ref="char:EOLhyphen"/>ſhip had commanded him to declare unto them, that he would be ready to joyn with them in that, or any other thing for the good of the City. And with that the Lord Mayor and Aldermen, <hi>&amp;c.</hi> left the Court of <hi>Huſtings,</hi> and diſmiſ<g ref="char:EOLhyphen"/>ſed the Aſſembly.</p>
+            <p>After Dinner, the grave Recorder, <hi>Sir John Hovvel,</hi> out of a great pretence of Loyalty, but indeed a perſonal Grudge againſt Mr. <hi>Jenkes,</hi> conveyed the news to <hi>White Hall,</hi> where with his uſual ſtrain of Retorick, he made ſuch a diſmal repreſentation of the mat<g ref="char:EOLhyphen"/>ter, and was ſo powerful in his Eloquence, as to occaſion both the Sheriffs and ſome other of the City Officers to be
+<pb n="8" facs="tcp:46100:5"/>ſent <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, who were examined by t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Lord Ch<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Juſtice <hi>Rainsford,</hi> in the preſence of the King, the Lord Chancel<g ref="char:EOLhyphen"/>lour, the Lord Treaſurer, Duke <hi>Lauderdale,</hi> and other <hi>Lord.</hi>
+            </p>
+            <p>The Sheriffs <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> others made <hi>Affidavits,</hi> but a Copy of them could never be obtained. Upon the <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>,</hi> Mr. <hi>Jenkes</hi> was ſummoned by a Meſſenger to appear at the Council Board the next day. Accompanied with many of his Friends, he attended in the <hi>Lobby,</hi> near the <hi>Council Cham<g ref="char:EOLhyphen"/>ber,</hi> according to his ſummons, and after ſome time was cal<g ref="char:EOLhyphen"/>led in, but his Friends preſſing to follow him (as is uſual on ſuch occaſions) were kept out, and not one ſuffered to go in with him. The King ſitting in <hi>Council,</hi> the Lord <hi>Chan<g ref="char:EOLhyphen"/>cellour, D. Lauderdale,</hi> and other Lords about him, The <hi>Clerk</hi> read an <hi>Affidavit</hi> made by the two Sheriffs, the com<g ref="char:EOLhyphen"/>mon Cryer, and one <hi>John Green</hi> an Attorney; the Sub<g ref="char:EOLhyphen"/>ſtance whereof was,</p>
+            <p>
+               <hi>That</hi> Fr. Jenkes, <hi>at a Common Hall in</hi> London, <hi>the</hi> 24th. <hi>of</hi> June <hi>laſt paſt, did complain of Grievances, an did deſire that before they vvent upon any other buſineſs, certain Members of that Court might accompany the Sheriffs and the Common-Sergeant to vvait upon the Lord Mayor, then in the Chamber, to deſire that a Common-Council might be called to Petition his Majeſty, in the Name of the City, to Call a</hi> New Parliament.</p>
+            <p>The <hi>Affidavit</hi> being read, the <hi>Council Board</hi> proceeded to this effect.</p>
+            <sp>
+               <speaker>Lord <hi>Chancellour.</hi>
+               </speaker>
+               <p>Sir, What ſay you to this matter?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Jenkes.</hi>
+               </speaker>
+               <p>I deſire to know if this be all you have to charge againſt me?</p>
+            </sp>
+            <sp>
+               <speaker>A <hi>Lord.</hi>
+               </speaker>
+               <p>Then you make little of this: You will find it to be enough.</p>
+            </sp>
+            <sp>
+               <speaker>Lord Chancellour.</speaker>
+               <p>Sir, Did you move for a <hi>Common-Council</hi> to Petition for a <hi>Nevv Parliament?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Jenkes.</hi>
+               </speaker>
+               <p>Is it any Crime to Petition for a <hi>Nevv P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rliament?</hi>
+               </p>
+               <pb n="9" facs="tcp:46100:5"/>
+               <p>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> which his <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ſhip not thinking fit to give any <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> proceeded.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Lord <gap reason="illegible" resp="#PDCC" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>llour</hi>
+               </speaker>
+               <p>Anſwer to the matter in charge.</p>
+            </sp>
+            <sp>
+               <speaker>Mr <hi>Jenkes.</hi>
+               </speaker>
+               <p>W<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> the liberty of his Majeſty and this <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oard, I will.</p>
+            </sp>
+            <sp>
+               <speaker>The <hi>King.</hi>
+               </speaker>
+               <p>Go<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+            </sp>
+            <sp>
+               <speaker>Mr <hi>Jenkes.</hi>
+               </speaker>
+               <p>May it pleaſe your Majeſty<g ref="char:punc">▪</g> Of all the Subjects you have,</p>
+            </sp>
+            <sp>
+               <speaker>A <hi>Lord</hi>
+               </speaker>
+               <stage>(interrupting him)</stage>
+               <p>Anſwer to the matter.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Jenkes.</hi>
+               </speaker>
+               <p>If his Majeſty will be pleaſed to hear me, I hope you will</p>
+            </sp>
+            <sp>
+               <speaker>The <hi>King.</hi>
+               </speaker>
+               <p>Let him go on.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Jenkes.</hi>
+               </speaker>
+               <p>May it pleaſe your Majeſty, Of all the Subjects you have, none are more Loyal than your City of <hi>London,</hi> and in the City, none more loyal than my ſelf, and no man there did more deſire, and in my circumſtances act more in order to your Majeſties Reſtauration than my ſelf: And I do deſy any Citizen or other, whomſoever, to ſay I have forfeited my loyalty by any one individial act</p>
+            </sp>
+            <p>The <hi>King</hi> interrupting him, Sir, you are not Lord <hi>Mayor,</hi> and I am very well ſatisfied with the loyalty of the City, and that it needs no ſuch Vouchers.</p>
+            <sp>
+               <speaker>
+                  <hi>Lord Chan<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>llour</hi>
+               </speaker>
+               <p>Speak to the matter.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Jenkes.</hi>
+               </speaker>
+               <p>May it pleaſe your Majeſty, Being ſum<g ref="char:EOLhyphen"/>moned to a Court of Common Hall in <hi>London,</hi> which is a Court that conſiſts of the main Body of the City.</p>
+            </sp>
+            <sp>
+               <speaker>Lord Chancellour</speaker>
+               <p>interruping him, Sir, you are under a double miſtake, for firſt, it was not a Court; and next, it did not conſiſt of the main Body of the City of <hi>London.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. Jenkes.</speaker>
+               <p>With your Lordſhips leave, it was a Court which doth conſiſt of all the Livery of the City of <hi>L<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>don,</hi> which, if I underſtand any thing, is the main Body of the City of <hi>London.</hi> And every member of that Court hath freedom to propoſe and debate any ſuch matter or thing as
+<pb n="10" facs="tcp:46100:6"/>he believes is for the ſervice of his Majeſty, and the good of the City; and no man can uſe more underſtanding than God has given him. And I aſſure your Lordſhip, what I then moved, was according to the utmoſt of my underſtand<g ref="char:EOLhyphen"/>ing for his Majeſties ſervice, and the good of the City. And (my Lord) if I were under a miſtake, I had the fortune to have good Company, for what I moved, was approved by the whole Court.</p>
+            </sp>
+            <sp>
+               <speaker>The <hi>King.</hi>
+               </speaker>
+               <p>It was not ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Secretary.</speaker>
+               <p>We have a depoſition to the contrary.</p>
+            </sp>
+            <sp>
+               <speaker>M. Jenkes.</speaker>
+               <p>It was ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Other <hi>Lords.</hi>
+               </speaker>
+               <p>It was not ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. Jenkes.</speaker>
+               <p>May it pleaſe your Majeſty, If you have a hundred depoſitions to the contrary, if the matter of fact were ſo, it was ſo, and I do affirm, it was approved by the whole Court.</p>
+            </sp>
+            <sp>
+               <speaker>A <hi>Lord.</hi>
+               </speaker>
+               <p>How came you to be a Privy Councellour?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. Jenkes.</speaker>
+               <p>I never had any ſuch ambitious thought in my head.</p>
+            </sp>
+            <sp>
+               <speaker>A <hi>Lord.</hi>
+               </speaker>
+               <p>How came you then to meddle with matters of State?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. Jenkes.</speaker>
+               <p>I thought any of his Majeſties ſubjects, in an humble manner, might Petition his Majeſty for a Remedy of any Grievance whatſoever.</p>
+            </sp>
+            <sp>
+               <speaker>A <hi>Lord.</hi>
+               </speaker>
+               <p>Do you think any one may Petition for a <hi>Par<g ref="char:EOLhyphen"/>liament?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. Jenkes.</speaker>
+               <p>I believe they may.</p>
+            </sp>
+            <sp>
+               <speaker>The <hi>King.</hi>
+               </speaker>
+               <p>I know whoſe Scholar you are, and I'll take care that none ſuch as you ſhall have to do with the Govern<g ref="char:EOLhyphen"/>ment.</p>
+            </sp>
+            <sp>
+               <speaker>Several <hi>Lords.</hi>
+               </speaker>
+               <p>What was't you mov'd? What was't you mov'd?</p>
+            </sp>
+            <sp>
+               <speaker>M. Jenkes.</speaker>
+               <p>My Lords, What I ſpake was not in a Cor<g ref="char:EOLhyphen"/>ner, but openly in the faces of a <hi>Multitude,</hi> and therefore cannot want a Witneſs to atteſt it.</p>
+            </sp>
+            <pb n="11" facs="tcp:46100:6"/>
+            <sp>
+               <speaker>A <hi>Lord.</hi>
+               </speaker>
+               <p>Juſt now it was a <hi>Court,</hi> and now it is a <hi>Multi<g ref="char:EOLhyphen"/>tude.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mr. Jenkes.</speaker>
+               <p>We Citizens pretend not to place our words ſo exactly inform, but that there may beſome miſtake in them but I think my expreſſion was no great abſurdity, for though it were a <hi>Court,</hi> yet the Perſons there were ſo nume<g ref="char:EOLhyphen"/>rous, that it may not be very improper to term them a <hi>Mul<g ref="char:EOLhyphen"/>titude.</hi> Yet, if I have failed in due expreſſion, I beg his Majeſties pardon. I know ſomewhat of the Cuſtoms of the City of <hi>London,</hi> and the Powers and Priviledges of the Courts there, and ſomwhat alſo of the Laws of <hi>England,</hi> but what the Powers and Cuſtoms of this Court are, I know not, and therefore ſhall deſire to ſay little, leſt I ſhould un<g ref="char:EOLhyphen"/>willingly offend.</p>
+            </sp>
+            <sp>
+               <speaker>Lord Chancellour.</speaker>
+               <p>Sir, Pray tell us, who adviſed you in this matter?</p>
+            </sp>
+            <sp>
+               <speaker>The <hi>King.</hi>
+               </speaker>
+               <p>Who adviſed you?</p>
+            </sp>
+            <sp>
+               <speaker>Mr. Jenkes.</speaker>
+               <p>VVhat I then propoſed, was conſented to by the whole Court, and ſo became their Act, as I ſaid before.</p>
+            </sp>
+            <sp>
+               <speaker>Lord Chancellour,</speaker>
+               <p>and Others. Anſwer directly to the Queſtion, or declare you will not.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. Jenkes.</speaker>
+               <p>Since I ſee your Majeſty and the Lords are angry, tho I am not ſenſible that I have given you any juſt cauſe for it, I muſt not ſay, I did it without advice, leſt you ſhould be more angry, and to name any particular Perſon (if there were ſuch) would be a mean and unworthy thing, therefore I deſire to be excuſed all farther anſwer to ſuch queſtions; ſince the Law doth provide, that no man be put to anſwer to his own prejudice.</p>
+            </sp>
+            <sp>
+               <speaker>The <hi>King.</hi>
+               </speaker>
+               <p>We will take that for an anſwer.</p>
+            </sp>
+            <sp>
+               <speaker>Lord Chancellour.</speaker>
+               <p>Since you name the Law, by the Law you ſhall be tryed.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. Jenkes.</speaker>
+               <p>I thank you, and this Board<g ref="char:punc">▪</g>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lord Chancellour.</speaker>
+               <p>You may withdraw.</p>
+            </sp>
+            <pb n="12" facs="tcp:46100:7"/>
+            <p>He immediately withdrew, and the room being cleared of all his friends and other company, then the Meſſenger, was kept there for the ſpace of an hour and an half, and af<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing called in any more, was by a Warrant of the Council, ſent to the Priſon of the <hi>Gate-houſe,</hi> within the Liberties of <hi>Weſtminſter.</hi> Soon after his commitment, he demanded of the Keeper a Copy of the Warrant, by which he was was commited, as he might, and by Law ought to have. The Keeper gave him a promiſe of it, but delaying the performance for two dayes, <hi>Mr. Jenkes</hi> reſolutely de<g ref="char:EOLhyphen"/>manded it of him as his duty, but could not yet obtain it<g ref="char:punc">▪</g> Sometime after the Keeper ſent him one voluntarily, by his man, with this excuſe, That before he had poſitive order to deny him one, and now had to give it him.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="warrant">
+                        <pb n="13" facs="tcp:46100:7"/>
+                        <head>The Copy of the Warrant.</head>
+                        <p>WHereas it appears to his Majeſty in Council, by the exa<g ref="char:EOLunhyphen"/>mination of Sir <hi>Thomas Gold,</hi> Sir <hi>John Shorter<g ref="char:punc">▪</g>
+                           </hi> Knights, Sheriffs of the City of <hi>London, John VVells</hi> Com<g ref="char:EOLhyphen"/>mon-Gryer of the ſaid City, and <hi>John Green</hi> one of the Attor<g ref="char:EOLhyphen"/>neys of the Lord Mayors Court, taken upon Oath before the Lord chief Juſtice <hi>Raynsford,</hi> That <hi>Francis Jenkes</hi> of the ſaid City, <hi>Linnen-Draper,</hi> did on the 24th. of this inſtant <hi>June,</hi> at a Common Hall then aſſembled at the <hi>Guild-Hall</hi> of t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> ſaid <hi>City</hi> for chooſing Officers for the enſuing Year, in a w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> ſeditious and mutinous manner, openly move and ſtir' the perſons th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>n preſent, That before they did go on to the choice of nevv Officers, (vvhich vvas the only occaſion of that Aſſembly) they should go to the Lord Mayor, and deſire him to call a <hi>Common-Counſel,</hi> that might make an addreſs to his Majeſty, in the Name of the <hi>City,</hi> to call <hi>A New Parliament<g ref="char:punc">▪</g>
+                           </hi> And vvhere<g ref="char:EOLhyphen"/>as the ſaid <hi>Francis Jenkes,</hi> being novv called in and heard be<g ref="char:EOLhyphen"/>fore his Majeſty in Council, vvas ſo far from denying or exic<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                           <g ref="char:EOLhyphen"/>ating his offence. That be did in a preſumptuous and arrogant manner, endeavour to juſtify the ſame.</p>
+                        <p>Theſe are therefore to command you, to take into your cuſtody, the Body of the ſaid <hi>Francis Jenkes,</hi> herevvith ſent you, and him to Keep ſafely, until he shall be delivered by due courſe of <hi>Lavv,</hi> for vvhich this shall be your Warrant.</p>
+                        <pb n="14" facs="tcp:46100:8"/>
+                        <closer>
+                           <dateline>
+                              <hi>Dated at the Council Chamber in</hi> White-Hall <date>
+                                 <hi>this</hi> 28th. <hi>Day of</hi> June, <hi>1676.</hi>
+                              </date>
+                           </dateline>
+                           <signed>To the Keeper of the <hi>Gate-Houſe VVeſtminſter,</hi> or his Deputy.
+<list>
+                                 <item>
+                                    <hi>Lindſey,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Peterborow,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>C. Craven,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>G. Carter,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Lauderdale,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Northampton,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Carbery,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>W. Maynerd,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Tho. Chicheley,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Danby,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Angleſey,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Arlington,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Bathe,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>J. Williamſon,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>R. Carr,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Finch,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Ormond,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Bridgwater,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Hen. Coventry,</hi>
+                                 </item>
+                                 <item>
+                                    <hi>J. Ernle.</hi>
+                                 </item>
+                                 <item>
+                                    <hi>Robert Sowtwell.</hi>
+                                 </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="12" facs="tcp:46100:8"/>
+            <p>NExt day being the. 29th. of <hi>June,</hi> divers of Mr. <hi>Je<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kes</hi> Friends waited upon Mr. Secretary <hi>Williamſon</hi> and deſired to become Bail for him; but Mr. Secretary refuſed to take any Bail, but told them, if they did mind him of it upon <hi>Wedneſday</hi> morning, he would move it at the Council. But Mr. <hi>Jnkes</hi> beleiving that to be (as it proved) but a delay, ordered ſome of his friends to wait upon the Lords Chiefe Juſtice <hi>Raynsford,</hi> and moved him for an <hi>Habeas Corpus ad Subjiciend, &amp; Recipiend.</hi> &amp;c. which accordingly was done; but his Lordſhip, denied to grant it. Alleading no o<g ref="char:EOLhyphen"/>ther reaſon, but that it was <hi>Vacation;</hi> though his Lordſhip could not but know that Writ to be the Subjects Right at all times, as well out of Term, as in Term, and <hi>Mr, Jenkes</hi> friends were ready to offer him multitudes of Preſidents when it had been granted out of Term both anciently and ſince his Majeſties Reſtauration.</p>
+            <p>
+               <hi>Mr. Jenkes</hi> reſolving to leave no legall courſe, to attaine his liberty untryed, upon <hi>Friday</hi> the 30th. Of <hi>June</hi> at a General Seal, did, by his Counſel move the Lord Chancel<g ref="char:EOLhyphen"/>lor for an <hi>Habeas Corpus;</hi> at firſt his Lordſhip did ſeem much ſurprized and did refuſe to hear his Counſel, but af<g ref="char:EOLhyphen"/>ter a little pauſe, his Lordſhip bid <hi>Mr. Jenkes</hi> Counſel to move it again the next Seal, and ordered the Seal to be put off from <hi>Tvveſday</hi> the 4th. untill <hi>Thurſday</hi> the 6th. of <hi>July.</hi>
+            </p>
+            <p>Upon <hi>Wedneſday</hi> the 5th. of <hi>July, Mr. Jenkes</hi> friend wait<g ref="char:EOLhyphen"/>ed upon Mr. Secreatary <hi>Willamſon,</hi> and deſired him accord<g ref="char:EOLhyphen"/>ing to his promiſe to move in Councill that <hi>Mr. Jenkes</hi> might be Bayled; but he ſaid, he had ſpoake with the King and could do nothing without a Petition, ſo upon <hi>Thurſday</hi> the ſixth of <hi>July,</hi> being a Publick Seale, <hi>Mr. Jenkes</hi> Coun<g ref="char:EOLhyphen"/>ſell did again move the Lord Chancellor (according to his Lordſhips order) and aſſerted the Authority of the Lord <hi>Cook,</hi> who is moſt clear in the Caſe, 2. <hi>part. Inſtututes fol.</hi> 53. Speaking of the VVrit of <hi>Habeas corpus</hi> in the <hi>Kings Beach,</hi>
+               <pb facs="tcp:46100:9"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, <hi>The like Writ is to be granted <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of the</hi> Chancery <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> (as in the <hi>Kings Bench</hi>) <hi>or in the</hi> Vacation, <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Court of</hi> Chancery, <hi>is,</hi> Officina Juſtitiae, <hi>and is ever <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed, and never Adjourned: So as the Subject being vvrong<g ref="char:EOLhyphen"/>fully <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>priſoned, may have juſtice for the liberty of his perſon <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ell in the</hi> Vacation <hi>time as in Term.</hi>
+            </p>
+            <p>And in the 4th. <hi>Inſtit. fol.</hi> 88. Speaking of the Court of <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>cery,</hi> he ſaith, <hi>And this Court is the rather alvvayes <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, for that if a man be vvrongfully Impriſoned in the</hi> Vaca<g ref="char:EOLhyphen"/>tion, <hi>the</hi> Lord Chancellour <hi>may grant an</hi> Habeas Corpus, <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o him juſtice, according to Lavv.</hi> And, <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ide</hi> 4. <hi>Inſtit, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi> 182.190.</p>
+            <p>Thus the Lord Cook.</p>
+            <p>
+               <hi>Mr. Jenkes</hi> Counſel did likewiſe oſſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> a Preſident or two, but the <hi>Lord Chancellour,</hi> making light of the Lord Cooks opinion, ſaying, <hi>The Lord Cook vvas not Infallible;</hi> And <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>g<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng all that <hi>Mr. Jenkes</hi> Counſel offered, over-ruled the matter, denying to grant the VVrit.</p>
+            <p>
+               <hi>On Tueſday</hi> morning <hi>July</hi> 11th. at the Quarter Seſſions holden for the liberty of <hi>Weſtminſter, Mr. Jenkes</hi> being ſtill a priſoner in the <hi>Gate-houſe,</hi> within that liberty, did move by his Counſell to be bayled, where this was the ſubſtance of what paſſed as it was taken by a by-ſtander.</p>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>We have no ſuch Name in our <hi>Kalender,</hi> and we ſitting here by a limited Commſſion, can take no notice of any perſon that is not in our <hi>Kalender.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Council.</speaker>
+               <p>Every keeper of a Priſon either in County or Franchiſe ought, by the ſtatute of 3. <hi>H.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>cap.</hi> 3. to certi<g ref="char:EOLhyphen"/>fie the names of every Priſoner in their Cuſtody at the next generall Goal-delivery there to be Kalendered before the Juſtice of Goal-delivery that the partys may be delivered according to Law, upon pain of 100 <abbr>l.</abbr> For every defalt there recorded, and I demand that this defalt of the Goaler may be recorded according to that ſtatute, and that you would as you, may<g ref="char:punc">▪</g> command him to Kalender him now.</p>
+            </sp>
+            <pb n="17" facs="tcp:46100:9"/>
+            <p>The ſtatute was read.</p>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>VVe are no general Goal-delivery for we cannot Try ſeverall felons but they muſt be tryed at the generall Goal-delivery for the County.</p>
+            </sp>
+            <sp>
+               <speaker>Counſel.</speaker>
+               <p>You are a generall Goal-delivery for all of<g ref="char:EOLhyphen"/>fences within the Cogniſance of your Franchiſe, and there<g ref="char:EOLhyphen"/>fore unleſſe the Fact for which he is Committed be ſuch as is above your Cogniſance he ought to be Tryed here, and if it be ſuch a Fact, he ought notwithſtanding to be Kal<g ref="char:EOLhyphen"/>endered here, that you may ſend him to the County Goal where he may be tryed.</p>
+            </sp>
+            <sp>
+               <speaker>Goaler.</speaker>
+               <p>I never did Kalender any man that was com<g ref="char:EOLhyphen"/>mitted by the Councill Table</p>
+            </sp>
+            <sp>
+               <speaker>Counſel.</speaker>
+               <p>The neglect hath not taken away your duty, and as often as you have ommitted to do ſo, ſo oft you have deſerved to be fined, and I do again demand of this Court that this default of yours may be recorded.</p>
+            </sp>
+            <p>The Court inclined to the Goaler, and would not record his default, whereupon the Counſel proceeded.</p>
+            <sp>
+               <speaker>Counſel.</speaker>
+               <p>Since you exclude him from the benefit of your preſent Commiſſion, I apply my ſelf to you, without reſpect to that, as you are Juſtices of peace in general, and as ſuch, you have power to bail any man bailable by Law, ex<g ref="char:EOLhyphen"/>cept in ſome particular caſes where you are reſtrained by ſtatute.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>By whom is he committed.</p>
+            </sp>
+            <sp>
+               <speaker>Counſel.</speaker>
+               <p>By the Council Board.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Do you believe the Council Board can com<g ref="char:EOLhyphen"/>mit to priſon.</p>
+            </sp>
+            <sp>
+               <speaker>Counſel.</speaker>
+               <p>I admit it.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>VVe don't know for what offence he is com<g ref="char:EOLhyphen"/>mitted.</p>
+            </sp>
+            <sp>
+               <speaker>Counſel.</speaker>
+               <p>I have here a Copy of the Commitment and deſire it may be read.</p>
+               <p>But the Goaler refuſing to own it for a true Copy, tho
+<pb n="18" facs="tcp:46100:10"/>given by himſelf, and the Court requiring a nicer proof, that it was a true Copy, than could at that time be made, they <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>erd the Counſel to attend in the afternoon, and in the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> time the Goaler to give a true Copy. In the after<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oon the Counſel appearing, the Court called to him, and asked him what he had to ſay.</p>
+            </sp>
+            <sp>
+               <speaker>Counſel.</speaker>
+               <p>I have now a Copy given and ſigned by the Goaler for a true Copy, and deſire it may be read.</p>
+               <p>The Goaler who was to prove it a true Copy, upon the Counſels coming into Court, took an occaſion to ſlink away and the Court (as if it had been by deſign) were ready to take hold of that opportunity to evade the buſineſſe, but <hi>Mr. Jenkes</hi> friends fetched him back, and he Swearing it to be a true Copy, it was read.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>What is it you demand?</p>
+            </sp>
+            <sp>
+               <speaker>Counſel.</speaker>
+               <p>What I did before: that there being nothing in this warrant for which he is not Bailable by Law, I demand that he may be Bailed.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>You have taken a wrong courſe in comming to us.</p>
+            </sp>
+            <sp>
+               <speaker>Counfel</speaker>
+               <p>I preſume he applyes himſelf properly to you, for he being a Priſoner within your Liberty, you are the moſt proper perſons to bayl him: As Juſtices of the Peace you have power to bayl any man within your Juriſdiction, bayl-able by Law, and where you may bayl by the Law, you ought to do ſo, and I demand it for <hi>Mr. Jenkes.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Where do you find ſuch power given to Juſtices of the Peace?</p>
+            </sp>
+            <sp>
+               <speaker>Counſel.</speaker>
+               <p>By the ſame Statute, of <hi>H. 7.</hi> that I oited againſt the Goaler, the enacting part whereof ſaith, <hi>That the Juſti<g ref="char:EOLhyphen"/>ces of the Peace, in every Shire, City or Tovvn, or tvvo of them at the leaſt, vvhereof one to be of the</hi> Quorum, <hi>have autho<g ref="char:EOLhyphen"/>rity and povver to let any ſuck priſoner or perſons,</hi> Mainpern<g ref="char:EOLhyphen"/>able <hi>by the Lavv, that have been Impriſoned vvithin their ſe<g ref="char:EOLhyphen"/>veral Counties, City or Tovvn, to bail or mainprize, unto their next General Seſſions, or unto the next Goal-delivery, of the
+<pb n="19" facs="tcp:46100:10"/>ſame Goales of every Shire, City or Tovvn as vvell vvithin Franchiſes as vvithout, vvhere any Goales be, or hereafter ſhall be,</hi> &amp;c.</p>
+               <p>The whole Statute was read, and the Court taking bo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the preamble, ſaid.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>This ſtatute was made for the prevention of bailing Felons not bailable by Law, and enables us only to bail Felons bailable by Law.</p>
+            </sp>
+            <sp>
+               <speaker>Counſel.</speaker>
+               <p>The Preamble of the Act recites that miſchief occaſinoned by the Statute of 1. <hi>R.</hi> 3 But the Enacting part Repeales that Act and gives you a general power of letting any perſons mainpernable by the Law to bail, and I'm ſure no ſtatutes made for the liberty of the ſubject ought to receive ſuch a ſtrait Conſtruction.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Do you conſider by whom he is commited? the Privy Council.</p>
+            </sp>
+            <sp>
+               <speaker>Counſel.</speaker>
+               <p>I do, and think that alters not the caſe.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>He is commited by a ſuperiour Court and we who are an Inferiour one cannot bail him.</p>
+            </sp>
+            <sp>
+               <speaker>Counſel.</speaker>
+               <p>It is not the Court that commits but the Fact for which the party is committed ought to direct you in Bail. The Statute of <hi>H. 7.</hi> hath no ſuch exception in it, nor hath any other ſince put any ſuch reſtraint upon you.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>Would you have us Bail him after the Lord Chancellour and the Lord Chief Juſtice have refuſed to grant a <hi>Habeas Corpus?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Counſel.</speaker>
+               <p>They did not deny the <hi>Habeas Corpus</hi> becauſe he was not Bailable by Law, but becauſe the Courſe of their Courts in their opinions would not admit it, but however, if you ought to Bail him, as by the Statute I think you ought, their refuſal does not leſten your duty.</p>
+               <p>Then the Court put him ſeveral caſes that did not at all reach the preſent caſe, as they ſeemed to think themſelvs by their faint urging them.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>We doubt very much that any inferiour Court can
+<pb n="20" facs="tcp:46100:11"/>Bail a man Committed by a Super<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> one.</p>
+            </sp>
+            <sp>
+               <speaker>Counſel.</speaker>
+               <p>Scruples and fears do nor <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Law: <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>out was once made in the Kings Benef<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> great caſe of <hi>S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lden</hi> and others, but the Law was for the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſone<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bef<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> that time, and was ſufficiently ſettled then, and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> from that in reaſon.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi>
+               </speaker>
+               <p>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, for that was upon a <hi>Habeas corpus</hi> out of the Kings Bench.</p>
+            </sp>
+            <sp>
+               <speaker>Counſel.</speaker>
+               <p>That is but a circumſtanciall difference. The <hi>Habeas corpus</hi> from that Court is only to remove the priſoner and the cauſe before them, that Juſtice may be done to him, <hi>Mr. Jenkes</hi> is already within your Juriſdicton, and the ſta<g ref="char:EOLhyphen"/>tute gives you Authority to Bail him, and your Authority makes it your duty, and I rely upon that.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>We conſiderd upon it at Dinner, and do belive it a rare caſe and fit to be adviſed upon, and we will adviſe. Why did you not move yeſterday when my Lord Chief Juſtice was in Town? Now there are no Judges in Town to adviſe with.</p>
+            </sp>
+            <sp>
+               <speaker>Counſel.</speaker>
+               <p>That we did not come yeſterday was no deſign, for he is not ſo fond of a Goal; and if it be an indiſcretion, yet that is no ſufficient reaſon to detain a man in priſon, how<g ref="char:EOLhyphen"/>ever if you have power (which you ought to know) you have it as well when they are not in Town as when they are. Is he Bailable by Law or not?</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>There is nothing in the Warrant for which he is not Bailable by Law.</p>
+            </sp>
+            <sp>
+               <speaker>Counſel.</speaker>
+               <p>For what reaſon then do you deny him?</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>We do not deny him, but we will adviſe becauſe he is Committed by a ſuperiour Court.</p>
+            </sp>
+            <sp>
+               <speaker>Counſel.</speaker>
+               <p>No man ought to be impriſoned for any miſ<g ref="char:EOLhyphen"/>demeanour before Conviction without Bail, and it is againſt the Petition of Right, that any man Bailable by Law ſhould be detained in Goal without it. I don't know how by ſuch denials as this the being Commited by a ſuperiour
+<pb n="21" facs="tcp:46100:11"/>Cou<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a reaſon, but at preſent I think th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Petition of Right ſpoils it for being a good one.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>You can give us no Preſident of any one being Bailed by Juſtices at the Seſſions, who was comm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tted by the Council Board.</p>
+            </sp>
+            <sp>
+               <speaker>Counſel.</speaker>
+               <p>I believe it is a rare caſe that a man ſhould be forced to apply himſelfe to ſuch, but I think I ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> furniſh you with an inſtance, and that is of one <hi>Cannon</hi> a Quaker who was committed by the Privy <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ounſell about <hi>Chriſtmas</hi> laſt, and was Bailed at the Seſſions of the <hi>Old Baily.</hi> A pert By-ſtander, no ways concerned, ſuggeſted to the Court, and the Court repeated after him.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>He was commited to <hi>New-Gate</hi> Priſon, and was Kalendered there.</p>
+            </sp>
+            <sp>
+               <speaker>Counſel.</speaker>
+               <p>If you ſtick to the reaſon of being committed by a Superiour Court, that is no anſwer; but if it muſt be an anſwer, <hi>Mr. Jenkes</hi> is committed to the Priſon of this Liber<g ref="char:EOLhyphen"/>ty and ought to have been Kalendero here, and then I do again demand that the Goaler be fined.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>We think it a rare caſe and fit to be adviſed upon, and our Commiſſion we here ſit by, directs us to do ſo in difficult caſes.</p>
+            </sp>
+            <sp>
+               <speaker>Counſel.</speaker>
+               <p>I told you before, I have nothing to do with the Commiſſion you hear ſit by, and your ſelves excluded me from it, but apply my-ſelf to you as Juſtices of Peace meerly, and as ſuch, you ought to take upon you the knowledge of your Office.</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>In the great caſe of <hi>Selden,</hi> that you Cited, the Judges took two Terms to adviſe.</p>
+            </sp>
+            <sp>
+               <speaker>Counſel.</speaker>
+               <p>You very well know what Opinion was had of their doing ſo. Will you adviſe upon it to Night with the Kings Counſel, and Ile attend you to morrow morn<g ref="char:EOLhyphen"/>ing?</p>
+            </sp>
+            <sp>
+               <speaker>Court.</speaker>
+               <p>We think fit to adviſe with the Judges about it till next Seſſions.</p>
+            </sp>
+            <pb n="22" facs="tcp:46100:12"/>
+            <sp>
+               <speaker>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </speaker>
+               <p>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> can eaſily interpret wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſuch advili<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſay you apply your ſelf to us as Juſtices of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, then you may come to any two of us a fort<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight hence or more and perhaps we may adviſe in the mean</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ounſel.</hi>
+               </speaker>
+               <p>I believe it will be a difficult matter to get any two of you together upon this occaſion.</p>
+            </sp>
+            <sp>
+               <speaker>Mr. <hi>Jenkes.</hi>
+               </speaker>
+               <p>finding all theſe common Doors to Liberty ſhut againſt him, did by adviſe betake himſelf to another method, not leſſe legall then the former, tho the Power, granted by the Statutes, to Juſtices of Peace and the conſtant iſſuing of the Writ of <hi>Habeas Corpus</hi> upon demand (both more eaſy Courſes) have occaſioned it to be of more ſel<g ref="char:EOLhyphen"/>dom uſe.</p>
+            </sp>
+            <p>
+               <hi>Juſtice Filzherbert</hi> in his <hi>Natura Brevium</hi> (an Author and a Book of Juſtly venerable Authority in our Law) in h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Chapter of <hi>Mainpriſe</hi> declars, <hi>That If a man be taken by the Kings Commiſſion and kept in Priſon for Fellony or Miſ<g ref="char:EOLhyphen"/>demeanors, be may by his friends put in ſureties in the Chancery, that he vvill appear before the Juſtice,</hi> &amp;c. <hi>And be of good behaviour,</hi> &amp;c. <hi>And that body for body, and there<g ref="char:EOLhyphen"/>upon he shall have a Writ out of the Chancery unto the Sheriff or unto the Conſtable of the Caſtle vvhere he is Impriſoned, to ſet him at liberty if he be Impriſoned for that cauſe and for no other.</hi>
+            </p>
+            <p>Which words ſeem plainly to declare the Writ of <hi>Main<g ref="char:EOLhyphen"/>priſe</hi> to be the ſubjects right, and not to leave a diſcretional power to the Officers of Chancery in granting it. But the ſcarcity of Preſidents being the great Objection againſt the <hi>Habeas Corpus</hi> out of Chancery, Mr. <hi>Jenkes</hi> reſolved to offend no more in that kind, and therefore cauſed a ſearch to be made in the Rolls in the Tower for the Writs of <hi>Mainpriſe,</hi> where a multitude of them was found and many in the caſe of a Commitment by the Kings command. A Copy of one and a Note of ſeverall others were taken out, to Back the Authority of <hi>Fitzherbert.</hi> With this proviſion, on <hi>Monday
+<pb n="23" facs="tcp:46100:12"/>July</hi> 17th. four of Mr. <hi>Jenkes</hi> friends, ſubſtancial Merchants, attended with a Counſel went to the Lord Chancelour, and tho upon tender of themſelves as Bayl for him, they might have demanded their Writ of <hi>Mampriſe,</hi> as the Subjects right without other formality, yet they addreſſed themſelves to him in a more reſpectfull manner by way of Petition, thus.</p>
+            <p>
+               <hi>To the right honourable</hi> Henry Lord Finch, <hi>Baron</hi> of Daventrey <hi>and</hi> Lord High Chancellour <hi>of</hi> England.</p>
+            <p>The humble Petition of <hi>A. B. C. D.</hi> of <hi>London</hi> Mer<g ref="char:EOLhyphen"/>chants, friends to <hi>Francis Jenkes</hi> now Priſoner in the <hi>Gate-Houſe</hi> of <hi>Weſtminſter,</hi> ſheweth: That the ſaid <hi>Fr. Jenkes</hi> was Committed to the ſaid Priſon by virtue of a Warrant, a true Copy whereof is here unto annexed, for a fact Bayl-able by Law, for which, and no other cauſe, he yet remains there a Priſoner: And that in this and all other caſes of like nature, your Petitioners are adviſed upon putting in Bayl in the Court of <hi>Chancery,</hi> according to the antient courſe and uſage thereof, a W<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rit of <hi>Mainpriſe</hi> ought to Iſſue under the Great Seal, to be directed to the Sheriff or Keeper of the Priſon where ſuch priſoner ſtands Committed, to deliver the priſoner ſo Committed.</p>
+            <p>That your Petitioners being men of good Eſtates (as ſhall if your Lordſhip require, be made out to your Lord<g ref="char:EOLhyphen"/>ſhip) do deſire and are ready to become Bayl for the ſaid <hi>Fr. Jenkes,</hi> according to the courſe of the <hi>Chancery,</hi> and ac<g ref="char:EOLhyphen"/>cording to the Law.</p>
+            <p>The Petitioners therefore pray, That your Lordſhip would accept of Bayl accordingly, and that thereupon your Lord<g ref="char:EOLhyphen"/>ſhip would order a Writ to be made forthwith, to be directed to the Keeper of the <hi>Gate-houſe,</hi> for the diſcharg of the ſaid <hi>Fr. Jenkes.</hi>
+            </p>
+            <p>And your Petitioners ſhall always pray, <hi>&amp;c.</hi>
+            </p>
+            <p>The petition being ſent in to, and read by his Lordſhip, was returned by the Secretary with this anſwer, That his
+<pb n="24" facs="tcp:46100:13"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ordſhip did very well approve of the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> but ſince Mr. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> commited by the Council P<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> he thought fit <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Petitioned <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhould Bayl him. But Mr. <hi>Jenkes</hi> friends not being ſatiſfied with that anſwer, preſſed to ſpeak to his Lordſhip, and were by his Lordſhips order called in, who comming towards them, ſpake to this effect.</p>
+            <sp>
+               <speaker>Lord Chief Juſtice.</speaker>
+               <p>Who Is't that puts you upon theſe improper methods.</p>
+            </sp>
+            <sp>
+               <speaker>Counſel.</speaker>
+               <p>We preſume this addreſſe to your Lordſhip to be a proper courſe in our caſe and is ſuch as we have prſident for.</p>
+            </sp>
+            <sp>
+               <speaker>Lord Chief Juſtice.</speaker>
+               <p>Are you a Lawyer?</p>
+            </sp>
+            <sp>
+               <speaker>Counſel</speaker>
+               <p>Yes, my Lord.</p>
+            </sp>
+            <sp>
+               <speaker>Lord Chief Juſtice.</speaker>
+               <p>Have you read <hi>Fitzheberts Brevium?</hi> Look in his Writ, <hi>de homine replegiando.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Counſel.</speaker>
+               <p>We have nothing to do with that Writ, but it is by <hi>Fitzherbert</hi> that we are directed to this courſe, in his <hi>Chapter</hi> of <hi>Mainpriſe,</hi> where he ſaith (what is before Citied) and we are confirmed in his opinion by ampltiude of Preſi<g ref="char:EOLhyphen"/>dents out of the cloſe Rolls in the Tower, I have the Copy of one here, and the number and Roll of many more.</p>
+            </sp>
+            <p>The preſident ſhown to his Lordſhip was this.</p>
+            <q>
+               <floatingText xml:lang="lat">
+                  <body>
+                     <div type="text">
+                        <head>Ex Rol. clauſ. de Anno Regni Regis Ed. <hi>3.</hi> xi. parte pri<g ref="char:EOLhyphen"/>ma membra, <hi>28.</hi>
+                        </head>
+                        <p>Rex Seneſcallo &amp; Mareſcallo Hoſ<g ref="char:EOLhyphen"/>pitij noſtri,<note place="margin">De deliberand. <hi>Ric<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap> Monyvvord</hi> a priſona.</note> ſalutem. Cum <hi>Rich Mony<g ref="char:EOLhyphen"/>vvord</hi> in priſona Mariſcallcae noſtiae per preceptum noſtium, pro quibuſ<g ref="char:EOLhyphen"/>dam tranſgreſſionibus &amp; contemptibus nobis factis ut dicitur detentus, exiſtat ſub cuſtodia Jamtoris noſtri, ac <hi>Williel. Stury</hi> Chivaleir, <hi>Tho. Pride</hi> de Comitat. <hi>Salop, Oliverius</hi> de <hi>Burde<g ref="char:EOLhyphen"/>aux</hi> de Com. <hi>Berkes, Andreus Aubray, Johannes Piſſelan,
+<pb n="25" facs="tcp:46100:13"/>&amp;</hi> Petrus Fan <hi>de</hi> London, <hi>coram nobis in</hi> Cancellaria <hi>no ſtra, perſonaliter Conſtituti manuceperunt predictum</hi> Richard viz. <hi>qui libet corum corpus pro corpore habere coram nobis, vel Juſtitiariis noſtris, aut Conſcilio noſtro, quandocun<expan>
+                                 <am>
+                                    <g ref="char:abque"/>
+                                 </am>
+                                 <ex>que</ex>
+                              </expan> &amp; ubicun que volucrimus, ad mandatum noſtrum ad ſtand. rect. de tranſ<g ref="char:EOLhyphen"/>greſsionibus, &amp; cont<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>mptibus &amp; aliis exceſsibus quibuſcunque, unde indictatus vel rettatus eſt, &amp; quod bene &amp; fideliter erga nos, &amp; Populum noſtrum, de cetero ſe geret, vobis mandamus, quod prefatum</hi> Ricard. <hi>a Pri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ona praedicta, ſi ea occaſione, &amp; non alia, detineatur, in eadem deliber ari faciatis, per manucapti<g ref="char:EOLhyphen"/>onem ſupradictam.</hi>
+                        </p>
+                        <closer>
+                           <dateline>
+                              <hi>Teſte</hi> Rege <hi>apud</hi> Weſtmonaſt. <date>
+                                 <hi>decimo nono die</hi> Martij,</date> 
+                              <hi>P. iſtm. Regem.</hi>
+                           </dateline>
+                           <signed>Convenit cu<g ref="char:cmbAbbrStroke">̄</g> 
+                              <hi>Recardo Laur. Halſted</hi> Deput. <hi>Algernon May,</hi> Militis.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>The Note of the Number and Roll of ſeveral Writs of <hi>Mainpriſe</hi> upon Surety put into <hi>Chancery,</hi> ſhewn to his Lord<g ref="char:EOLhyphen"/>ſhip, was this.</p>
+            <list>
+               <item>II. <hi>Ed.</hi> 3. pt. 1. To the Conſtable of the Tower, to Deliver <hi>John Brice.</hi>
+               </item>
+               <item>II. <hi>Ed.</hi> 3. pt. 1. mem. 29. To the Conſtable of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Tower, to deliver <hi>Bernard Pouch</hi>
+               </item>
+               <item>II. <hi>Ed.</hi> 3. pt 1. mem. 28 To the Conſtable of the Tower, to deliver <hi>Henry Compton</hi> Teſte 26 <hi>Martij</hi>
+               </item>
+               <item>
+                  <hi>Eodem Rot.</hi> 23. To the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onſtable of the T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wer, to deliver <hi>John de Weſenham.</hi> Teſte 18 <hi>Aprilis.</hi>
+               </item>
+               <item>4<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Ed</hi> 3. pt. 1. mem. 6. <hi>Cuſtod Foreſt.</hi> For deli<g ref="char:EOLhyphen"/>very of ſeveral perſons committed for Hunting in Foreſts, Since the <hi>Stat.</hi> 28 <hi>Ed.</hi> 3. <hi>Cap.</hi> 9.</item>
+               <item>
+                  <hi>Eodem Rot.</hi> mem 10. The like Teſte 20 <hi>Aug.</hi>
+               </item>
+               <item>
+                  <hi>Eodem Rot.</hi> mem. 17. The like.</item>
+               <pb facs="tcp:46100:14"/>
+               <item>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>odem Rot.</hi> mem. 25 The <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Will. de Clark</hi>
+               </item>
+               <item>3. <hi>Rich.</hi> 2. mem. 3. To the Sheriff of <hi>London,</hi> to de<g ref="char:EOLhyphen"/>liver <hi>Nich. de Svvederton &amp; Joh. Deye.</hi> Teſte 5. <hi>Decemb.</hi>
+               </item>
+               <item>
+                  <hi>Eodem Rot.</hi> mem 22. To the Juſtices of <hi>North Wales</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> deliver <hi>Lloyd.</hi>
+               </item>
+            </list>
+            <sp>
+               <speaker>Lord Chancellour.</speaker>
+               <p>One Preſident of diſcretion is worth a thouſand of theſe Preſidents.</p>
+               <p>His Lordſhip read the Preſident, and obſerving it to bear <hi>Teſte</hi> the 19th. day of <hi>March,</hi> which could never be in Term, asked, When it was returnable? And ſaid, It muſt be returnable in ſome Court at <hi>Weſtminſter.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Counſel.</speaker>
+               <p>This Preſident hath no Return, neither doth the Nature of the Writ in this Caſe require one, for it is only a <hi>Mandate</hi> to the <hi>Goaler,</hi> to ſet him at Liberty upon <hi>Surcties,</hi> firſt taken in <hi>Chancery,</hi> for his appearance before the Juſtices, which Juſtices, and the time of his appearance, I ſuppoſe are to be named in the <hi>Recognizance.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lord Chancellour.</speaker>
+               <p>Whether there ought to be a Return is the Queſtion; Beſides, this is a Writ directed immediate<g ref="char:EOLhyphen"/>ly to the Marſhal of the Houſhold, and is a diſſerent Caſe.</p>
+            </sp>
+            <sp>
+               <speaker>Counſel.</speaker>
+               <p>With ſubmiſſion to your Lordſhip, it makes no diſſerence who is the Goaler, and thoſe I have given your Lordſhip the Number and Roll of, are to ſeveral Goalers.</p>
+            </sp>
+            <p>Then <hi>Fitzharberts Nat. Brevium</hi> was ſhown to his Lord<g ref="char:EOLhyphen"/>ſhip, and upon reading the words there, <hi>If a man be Impriſon<g ref="char:EOLhyphen"/>ed by the Kings Commiſsion,</hi> &amp;c. His Lordſhip ſaid, that it was intended of one Impriſoned by virtue of a Commiſſion out of <hi>Chancery.</hi>
+            </p>
+            <sp>
+               <speaker>Counſel.</speaker>
+               <p>I humbly preſume, that is not the ſence of the Book; the Preſidents I have ſhewn your Lordſhip ſeem to Interpret it, and are upon other <hi>Comments;</hi> and <hi>Fitzhar<g ref="char:EOLhyphen"/>bert</hi> in his <hi>Abridgment Tit. Mainprize pl.</hi> 23. cites a Book Caſe, that ſhews this to have been a courſe in the <hi>Chancery,</hi> but we ſubmit it to your Lordſhips Judgment.</p>
+            </sp>
+            <pb n="27" facs="tcp:46100:14"/>
+            <sp>
+               <speaker>Lord Chancellour</speaker>
+               <p>A little ſubmiſſion in a proper Place will do, but he hath a mind to come out with a high hand</p>
+            </sp>
+            <sp>
+               <speaker>Counſel.</speaker>
+               <p>He has a mind to be diſcharged by <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Warrant for his Commitment directs.</p>
+            </sp>
+            <sp>
+               <speaker>Lord Chancellour.</speaker>
+               <p>I am not to controll any Act o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Privy Council,</p>
+            </sp>
+            <sp>
+               <speaker>Counſel.</speaker>
+               <p>At the laſt motion for a <hi>Habeas Corpus,</hi> your Lordſhip was pleaſed to ſay, That though that was not a pro<g ref="char:EOLhyphen"/>per method for Mr. <hi>Jenkes</hi> to obtain his Liberty by, ye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> there was one; and upon that encouragement from your Lordſhip ſearch has been made, and this Courſe we have now taken found to have been the antient Courſe, and we did pre<g ref="char:EOLhyphen"/>ſume the ſame that your Lordſhip meant.</p>
+            </sp>
+            <sp>
+               <speaker>Lord Chancellour.</speaker>
+               <p>You have uſed a great deal of induſtry to miſs the right way. Your Preſidents of <hi>Edward</hi> the 3d. and <hi>Richard</hi> the ſecond, ſince three hundred year old, I'll conſider off till next Term. Upon which Anſwer Mr. <hi>Jenkes</hi> his Friends withdrew.</p>
+            </sp>
+            <p>Now the plenty of Preſidents proved as great a fault, as want of them did before, and their Age, which uſes to add to their Authority and give them a greater reſpect, made them contemned: Such alwayes is the Succeſs where, <hi>Stat pro Ratione, Voluntas.</hi> In the Afternoon, the Secretary that firſt carryed in the Petition, came to Mr. <hi>Jenkes</hi> in a diſ<g ref="char:EOLhyphen"/>ſembled confuſion, and told him that he had committed a miſtake in returning the Petition, That his Lordſhip had ask'd him for it,<note place="margin">Note, That he return'd it by his Lordships Order.</note> and would be very angry with him if he had it not; That he had left his Lordſhip looking over ſome Papers and taken that opportunity of coming for it, and deſired that he might have it to preſerve him from his Lordſhips diſpleaſure. Tho the Mornings action gave Mr. <hi>Jenkes</hi> a great deal of reaſon to ſuſpect the Secretary's tale to be a meer contrivance, and eaſy to ſurmiſe the Truth, yet he took no notice of what had
+<pb n="28" facs="tcp:46100:15"/>men paſſed, but ſent the Petition, which was then in ſome of his Friends hands, that evening to him. Upon the ſecond thoughts which his Lordſhip beſtowed upon the matter of the Petition, he was better reconciled to it, and proved bet<g ref="char:EOLhyphen"/>ter than his word in conſidering the Preſidents; for, in ſtead of pauſing on them till the next Term, he was pleaſed to car<g ref="char:EOLhyphen"/>ry them and the Petition to the Privy Council the next <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>neſday,</hi> where, tho all the particulars are not known, upon <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>edible Information this was the ſubſtance of what paſſed. His Lordſhip acquainted the Board of the Addreſs that had been made to him, and moved that the Petition might be there read. After it was read, his Lordſhip told them that it had ſome appearance of Law, and deſired that the <hi>Attor<g ref="char:EOLhyphen"/>ney General</hi> might give his opinion. Mr. <hi>Attourney</hi> told him, If it were Law, his Lordſhip ought to grant it, if it were not Law, then to deny it; If it were of ſuch difficulty as he could not ſatisfy himſelf, That then he ſhould adviſe with the Judges. His Lordſhip then moved for an Order of Coun<g ref="char:EOLhyphen"/>cil for his direction in the matter, to which ſome of the Lords reply'd, That they were a Court of <hi>State</hi> and not of <hi>Lavv,</hi> and that it did belong to him as <hi>Lord Chancellour</hi> to inform them in matters of <hi>Lavv.</hi> Thereupon his Lordſhip clap<g ref="char:EOLhyphen"/>ing his hands on his breaſt, ſaid, <hi>I thank God I have Courage enough to ſerve his Majeſty.</hi>
+            </p>
+            <p>About the latter end of <hi>July</hi> ſome of Mr. <hi>Jenkes</hi> his Friends attended his Lordſhip again, and offered him Bail in<g ref="char:EOLhyphen"/>ſiſting upon the Writ of <hi>Mainprize</hi> as the Subjects Right, alledging to his Lordſhip the hazzards that his Health, his Family, and his Trade were expoſed to by his confinement, His Lordſhip asked them why they had not petitioned the King and Council, and told them if Mr. <hi>Jenkes</hi> thought it better to lye in Priſon and Complain, than Petition and be Bayled, he might do as he pleaſed.</p>
+            <p>They told him they had tendred Bayl to Mr. Secretary <hi>Williamſon,</hi> who promiſed them to move the King and Coun<g ref="char:EOLhyphen"/>cil
+<pb n="29" facs="tcp:46100:15"/>in it, but when they reminded him of it upon the next Council Day, he was pleaſed to excuſe himſelf. His Lorſhdip told them he never heard they had tendred Bayl, but the Writ of <hi>Mainprize</hi> was forgotten in all his Anſwers.</p>
+            <p>They then told him, that the General Report was, that the King and Council had referred it to his Lordſhip, but his Lordſhip would take no notice of that likewiſe, but ſaid, the King would adviſe with the Judges when they came to Town. His Lordſhip with-drew from them, and they left word with his Secretary, That Mr. <hi>Jenkes</hi> looked upon him<g ref="char:EOLhyphen"/>ſelf to be his Lordſhips Priſoner.</p>
+            <p>On the <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> of <hi>Auguſt,</hi> Mr. <hi>Jenkes</hi>'s Friends went again to my <hi>Lord Chancellours,</hi> but his Secretary told them his Lordſhip could not be ſpoken with. They prevailed with his Secretary to go up to him and remind his Lordſhip of his laſt Anſwer of adviſing with the Judges, and tell him that ſe<g ref="char:EOLhyphen"/>veral of the Judges had been in Town, and they did now de<g ref="char:EOLhyphen"/>ſire his Lordſhips Reſolution.</p>
+            <p>The Secretary at his Return told them, that as ſoon as he began to mention the buſineſs, his Lordſhip fell into a fit of the Stone, but when that was over, he would mention it un<g ref="char:EOLhyphen"/>to him. About two hours after they returned, and the Se<g ref="char:EOLhyphen"/>cretary being abſent, another of his Lordſhips ſervants came to them and told them that his Lordſhip was not well, and could not be ſpoken with, but had ordered him to tell them, That Mr. <hi>Jenkes</hi> might adviſe with his Counſel what was fit to be done for he was none of his Counſel, and if he would Petition the King and Council he might, and that that was his Anſwer.</p>
+            <p>On the 11th. of <hi>Auguſt,</hi> being the laſt Council day that was to be before the 3d. of <hi>October,</hi> Mr. <hi>Jenkes</hi> thought fit again to tender Bayl to the Council, and that the <hi>Lord Chan<g ref="char:EOLhyphen"/>cellour</hi> who diſowned all knowledge of his doing ſo before, and the whole Council might know of it, he ſent this Letter by his Bayl to the Lord <hi>Privy Seal,</hi> then Preſident of the Council, which was publickly read.</p>
+            <pb n="30" facs="tcp:46100:16"/>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>My Lord</salute>
+                  </opener>
+                  <p>Have been impriſoned ſince the 28th of <hi>June,</hi> to my <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> great loſſe charge and prejudice of my health. I have <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>herto been denyed Bayl, <hi>Habeas Corpus</hi> and the Writ of <hi>Mainpriſe,</hi> which I am informed, were never before denied to any of his Majeſtys ſubjects in the like caſe; and this only for moving in a lawfull Court, and in a quiet and peacable manner, that which I did believe to be for his Majeſtyes ſervice, and the good of the City and Kingdom and the preſervation of the Proteſtant Religion, and which I conceive I can make appear to be according to the Laws and Statutes of this Realm, if I am publickly called thereto. Wherefore, I do not beg a diſcharge, for I deſire nothing more then to clear my innocence by a publick tryall; but ſince Mr. <hi>Murrel,</hi> and others, committed to this priſon for matters of a far other nature, are daily bayled out, my humble requeſt to your Lordſhip is, that you would be plea<g ref="char:EOLhyphen"/>ſed to move his Majeſty, that I as well as any other of his Majeſtys ſubjects, may enjoy the benefit of the Laws, and that the Writ of <hi>Mainpriſe</hi> may be granted to me, or that my Bayl, which now attend, may be taken. Your Lordſhip will very much oblige.</p>
+                  <closer>
+                     <signed>Your Lordships humble-Servant, <hi>FRANCIS JENKES.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="31" facs="tcp:46100:16"/>
+            <p>This Letter was by ſome improved into a Petition; and when they had given it that name, (tho that was the only thing wanting to pleaſe the Lord Chancellour, yet it could not procure the acceptance of Bayl, but the method pro<g ref="char:EOLhyphen"/>poſed by his Lordſhip proved as ineffectuall as thoſe that were demanded of him. The <hi>Lord Chancellours</hi> reſolutions being ſufficiently diſcovered, Mr. <hi>Jen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es</hi> friends forbore all farther ſollicitation of his Lordſhip, and made freſh application to the Lord <hi>Chief Juſtice Rainsſord,</hi> on <hi>Auguſt</hi> 18th, then juſt returned from the Circuit. The time of Se<g ref="char:EOLhyphen"/>ſſions at the <hi>Old Bailey</hi> drawing on, They cauſed two Writs of <hi>Habeas Corpus</hi> to be made (the common courſe of remov<g ref="char:EOLhyphen"/>ing priſoners from one Goal to another) one, <hi>ad delibe<g ref="char:EOLhyphen"/>randum,</hi> directed to the Keeper of the <hi>Gate-houſe;</hi> the other <hi>adrecipiendum,</hi> directed to the Sheriffs of <hi>London,</hi> and deſired his Lordſhip to ſign them, that Mr. <hi>Jenkes</hi> might be removed and brought to tryall; for that the keeper of the <hi>Gate-houſe</hi> not Kalendering any State priſoner (as he call<g ref="char:EOLhyphen"/>ed him) at the Seſſions for <hi>Weſtminſter,</hi> he might lye there all his life time without triall, which no Subject ought to do. His Lordſhip excuſed himſelf upon his late return to Town which had not yet afforded him leiſure to adviſe; and ſent them to the <hi>Attorney Generall</hi> to know whether he were rea<g ref="char:EOLhyphen"/>dy for a Tryal, before he would give them any anſwer. <hi>Mr. Attorney</hi> upon their coming to him very worthily told them that he had no order in it, but that he would not oppoſe the granting of thoſe Writs; adding God forbid but that the Law ſhould have its due courſe. They returned to the <hi>Lord Chief Juſtice</hi> with this anſwer and offered to make Oath that it was Mr. <hi>Attorneyes</hi> anſwer, but he would give credit to nothing but a note under <hi>Mr. Attorneys</hi> own hand. They told him it was hard that a man ſhouldly in priſon who was willing to bring himſelf upon tryall, that Writts of this nature were every day granted and did preſume could not reaſonably be denyed. His Lordſhip anſwerd he would know whether
+<pb facs="tcp:46100:17"/>
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r. Attorney</hi> were ready for a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey replyed that <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>y did not know when Mr. <hi>Attourney</hi> would be ready, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Mr. Jenkes</hi> muſt ſtay for his Tryal till then, they then mo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed his Lordſhip as they had done formerly, that he would <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rant a <hi>Habeas Corpus</hi> to bring him before his Lordſhip, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat he would accept of ſubſtantial Citizens for Bayl, who ſhould render him whenſoever Mr. <hi>Attorney</hi> ſhould call for him, alledging that ſuch Writs had been frequently granted by the Lord Chief Juſtice <hi>Keeling,</hi> and one of the now Juſti<g ref="char:EOLhyphen"/>ces of the <hi>Kings Bench.</hi>
+            </p>
+            <p>His Lordſhip returned, that he did not doubt the Security they ſhould offer him, but he had never granted ſuch a Writ, and he knew not upon what Authority others had done it; and in ſhort, refuſed to grant either that, or the other Writs.</p>
+            <p>After all theſe Denials of Right, Mr. <hi>Jenkes</hi> reſolved to ſit ſtill, with the ſatisfaction, that his ill ſucceſs was not impu<g ref="char:EOLhyphen"/>table to the Injuſtice of his Cauſe, but to the Pleaſure or Fear of thoſe that had the Power of making it otherwiſe: and with patience to expect till the Term ſhould ſet open the Priſon doors, which will not brook the denial of a <hi>Habeas Corpus,</hi> tho a long <hi>Vacation</hi> muſt.</p>
+            <p>No further Addreſs was therefore made to either of their Lordſhips, but themſelves, after they had taken the pleaſure of denying him, were pleaſed to condeſcend to Intercede for him. For, as we received by very credible information, the <hi>Lord Chief Juſtice</hi> went to the <hi>Lord Chancellour;</hi> and told him, that the Writs demanded of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were according to Law, and could not be denyed, and that he had only taken time till he had acquainted his Lordſhip with it.</p>
+            <p>The Lord <hi>Chancellour</hi> directed him to the Lord <hi>Treaſurer</hi> for further advice, who ſent him to the King. As ſoon as his M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jeſty underſtood that what was demanded was the Subjects Right, he immediately commanded that the Laws ſhould have their due Courſe, which their Lordſhips had ſtop'd.<gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+            </p>
+            <pb facs="tcp:46100:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
